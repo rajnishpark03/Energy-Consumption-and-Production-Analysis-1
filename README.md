@@ -1,4 +1,4 @@
-# Energy-Consumption-and-Production-Analysis
+# Energy-Consumption-and-Production-Analysis.
 
 The goal of this project is to analyse global energy consumption and production patterns and develop a machine learning model to predict future energy consumption. By using historical data on various forms of energy consumption and production, the project aims to uncover insights that can inform energy policies and strategic planning. This will support sustainable energy use by providing a data-driven foundation for decision-making and policy development.
 
